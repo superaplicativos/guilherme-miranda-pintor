@@ -1,0 +1,10 @@
+# robots.txt - Guilherme Miranda · Pintor · Autor
+User-agent: *
+Allow: /
+Disallow: /obras-originais/
+
+# Sitemap
+Sitemap: https://superaplicativos.github.io/guilherme-miranda-pintor/sitemap.xml
+
+# Crawl-delay para não sobrecarregar GitHub Pages
+Crawl-delay: 1
